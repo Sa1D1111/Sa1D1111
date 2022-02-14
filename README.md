@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
     width="120">
 
   
-  ## 🛠️ My additional tools
+  ## 🛠️ My additional tools [beginner]
 
 ### 👨‍💻 Programming languages
 
