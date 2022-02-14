@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/87517930/152613377-79a3a8f2-8352-4b49-a90f-338947ad7482.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -77,7 +76,6 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Google Apps Script" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
@@ -100,7 +98,6 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
@@ -112,7 +109,6 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
