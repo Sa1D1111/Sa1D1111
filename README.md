@@ -44,11 +44,10 @@ You can click the Preview link to take a look at your changes.
 
 - 🏮 [Email](mailto:ofysaldelgado@hotmail.com?subject=Hi%20from%20Shop%20Management "Email Me!")
 - 🦁 [Website](https://twitter.com/SalDev1111 "In the works!")
-- [GithubProfile](https://github.com/sa1D1111 "Sal Delgado") 
-- [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Sal Delgado")
+- :potted_plant: [GithubProfile](https://github.com/sa1D1111 "Sal Delgado") 
+- :mechanical_arm: [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Sal Delgado")
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like my work , Give it a ⭐ and Share it with friends!</p>
 <p align="center">💰 Donations </p>
