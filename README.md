@@ -5,7 +5,7 @@
   data-size="large">
 Follow @SalDev1111</a>
 
-- 👀 I’m interested in ... everything code. Just getting started in the world of developers.
+- 👀 I’m interested in everything code. Just getting started it feels.
 - 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Solidity. I'm preparing myself for a bootcamp.
 - 🥅 2022 Goals: Contribute more to Github and create more projects.
 <!---
