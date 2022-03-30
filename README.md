@@ -52,7 +52,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">💙 If you like my work give it a ⭐ and Share it with friends!</p>
 <p align="center">💰 Donations </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) ></a>
+
 
   <img align="center"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
