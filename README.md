@@ -6,9 +6,7 @@
 Follow @SalDev1111</a>
 
 - 👀 I’m interested in everything code. Just getting started it feels.
-- 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript, and Solidity. I'm preparing myself for a bootcamp.
-- 🥅 2022 Goals: Contribute more to Github and create more projects.
-<!---
+- 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript. I'm preparing myself for a bootcamp in the near future after getting my CS degree
 Sa1D1111/Sa1D1111 is ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
