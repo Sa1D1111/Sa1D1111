@@ -7,7 +7,6 @@ Follow @SalDev1111</a>
 
 - 👀 I’m interested in everything code. Just getting started it feels.
 - 🌱 I’m currently diving into ... C++, HTML5, CSS, JavaScript. I'm preparing myself for a bootcamp in the near future after getting my CS degree
---->
 
 🔌 Connect with me 🔌
 
