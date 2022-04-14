@@ -1,6 +1,6 @@
  
 - 👋 Hello! I’m @Sa1D1111(Sal) Welcome to my Github page.
-- :runner: <a class="twitter-follow-button"
+- 🏃 <a class="twitter-follow-button"
   href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSalDev1111&screen_name=SalDev1111"
   data-size="large">
 Follow @SalDev1111</a>
@@ -13,7 +13,7 @@ Sa1D1111/Sa1D1111 is ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-:electric_plug: Connect with me
+🔌 Connect with me 🔌
 
 <a href="https://twitter.com/SalDev1111">
 <img align="left" alt="Sal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,11 +21,13 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/sal-d-a16808221/"> 
 <img align="left" alt="Sal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <br />
 <br />
 
 
-:wrench: Favorite Languages and Tools:
+
+🛠️ Favorite Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -44,8 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🏮 [Email](mailto:ofysaldelgado@hotmail.com?subject=Hi%20from%20Shop%20Management "Email Me!")
 - 🦁 [Website](https://twitter.com/SalDev1111 "In the works!")
-- :potted_plant: [GithubProfile](https://github.com/sa1D1111 "Sal Delgado") 
-- :mechanical_arm: [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Sal Delgado")
+- ☯️ [GithubProfile](https://github.com/sa1D1111 "Sal Delgado") 
+- 📋 [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Board")
+- 📖 [HashNodeProfile](https://hashnode.com/post/hello-world-ckzq2qh7c0ki6r4s11zzw1zc9 "HashNode") 
 <h2 align="center">🤝 Support</h2>
 
 
