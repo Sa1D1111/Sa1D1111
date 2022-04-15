@@ -58,7 +58,7 @@ Follow @SalDev1111</a>
   
   ## 🛠️ My additional tools [beginner]
 
-### 🧰 Languages, Frameworks libraries, Databases, Cloud hosting, and Software.
+### 🧰 Languages, Frameworks libraries, Databases, Cloud hosting, IDEs and Software.
 
 <p>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
