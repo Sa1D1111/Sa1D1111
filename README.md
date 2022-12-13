@@ -26,8 +26,7 @@ Follow @SalDev1111</a>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/87517930/152613377-79a3a8f2-8352-4b49-a90f-338947ad7482.png" />
+<img align="left" alt="JavaScript" width="26px" 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -65,20 +64,16 @@ Follow @SalDev1111</a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src ="https://img.shields.io/badge/Angular-DD0031.svg?logo=Angular&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="edX" src="https://img.shields.io/badge/edX-02262B.svg?logo=edX&logoColor=white"></a>
     <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
     <a href="#"><img alt="ApolloGraphQl" src="https://img.shields.io/badge/ApolloGraphQl-311C87.svg?logo=Apollographql&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="#"><img alt="Webstorm" src="https://img.shields.io/badge/WebStorm-000000.svg?logo=WebStorm&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Norco" src="https://img.shields.io/badge/Norco-C3002F.svg?logo=Norco&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
