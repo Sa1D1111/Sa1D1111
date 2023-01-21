@@ -24,7 +24,7 @@ Follow @SalDev1111</a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-I am currently exploring various technologies, including C++, HTML5, CSS, JavaScript, and Python, as I pursue my degree in Computer Science at California State University Fullerton.
+As a computer science student at California State University Fullerton, I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. My current focus is on data engineering and its applications in the field of artificial intelligence. I am excited to continue my education and apply what I have learned to real-world scenarios.
 
 I am determined to gain the knowledge and skills necessary to excel in the field. I see the constant evolution of technology as a challenge that I am eager to tackle, and I am excited to discover new ways to use it to solve real-world problems.
 
