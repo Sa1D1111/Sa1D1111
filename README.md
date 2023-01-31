@@ -41,7 +41,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 <a href="https://twitter.com/SalDev1111">
 <img align="left" alt="Sal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
- <a href="https://www.linkedin.com/in/sal-d-a16808221/"> 
+ <a href="https://www.linkedin.com/in/saldelgado1/"> 
 <img align="left" alt="Sal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
