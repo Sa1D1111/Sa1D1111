@@ -74,7 +74,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 <h2 align="center">🤝 Support</h2>
 
 
-<p align="center">💰 Donations </p>
+<!-- <p align="center">💰 Donations </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
@@ -82,5 +82,17 @@ Please feel free to contact me if you have any opportunities or if you just want
   <img align="center"
     src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
     width="120">
+ -->
+
+
+
+<div style="display:flex; flex-direction: row; justify-content:center; align-items:center;">
+  <div>
+    <a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  </div>
+  <div>
+    <img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="120">
+  </div>
+</div>
 
   
