@@ -80,7 +80,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 
 
 
-<!-- <p align="center">💰 Donations </p> // below tag.
+<!-- <p align="center">💰 Donations </p> // image is below coffee img
 <p align="center">
 <a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
