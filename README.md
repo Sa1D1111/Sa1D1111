@@ -27,15 +27,13 @@ Follow @SalDev1111</a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-As a computer science student at California State University Fullerton, I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. My current focus is on data engineering and its applications in the field of artificial intelligence. I am excited to continue my education and apply what I have learned to real-world scenarios.
-
-I am determined to gain the knowledge and skills necessary to excel in the field. I see the constant evolution of technology as a challenge that I am eager to tackle, and I am excited to discover new ways to use it to solve real-world problems.
+CS student - CSUF. I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. I am very excited to continue my education and apply what I have learned to real-world scenarios.
 
 I believe that continuing to learn and improve my skills is essential for success in this field, and I am dedicated to staying up-to-date with the latest developments and trends in technology.
 
-As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on projects, work on personal projects and Internships.
+As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on any awesome projects!
 
-Please feel free to contact me if you have any opportunities or if you just want to chat about technology!
+Please feel free to contact me if you have any opportunities or if you just want to chat about tech!
 
 🌱 Thank you for visiting my profile!
 
