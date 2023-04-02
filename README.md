@@ -1,4 +1,5 @@
-![Contribution Graph with Snake](https://github.com/sa1D1111/sa1D1111/blob/output/dist/github-contribution-grid-snake.svg)
+![Contribution Graph with Snake](https://raw.githubusercontent.com/sa1D1111/sa1D1111/output/dist/github-contribution-grid-snake.svg)
+
 
 
 
@@ -84,4 +85,3 @@ Please feel free to contact me if you have any opportunities or if you just want
     width="120">
 
   
-![Contribution Graph with Snake](https://github.com/sa1D1111/sa1D1111/blob/output/dist/github-contribution-grid-snake.svg)
