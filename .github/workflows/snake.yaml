@@ -38,8 +38,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         id: snake-svg
         uses: Sa1D1111/snk/svg-only@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+        with: github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg?color_head=red&color_body=white&color_tail=black
