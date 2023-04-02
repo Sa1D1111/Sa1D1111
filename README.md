@@ -1,4 +1,5 @@
-![Contribution Graph with Snake](https://raw.githubusercontent.com/sa1D1111/sa1D1111/output/dist/github-contribution-grid-snake.svg)
+![Contribution Graph with Snake](https://github.com/Sa1D1111/Sa1D1111/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
