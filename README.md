@@ -63,7 +63,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 
 
 - 🏮 [Email](mailto:ofysaldelgado@hotmail.com?subject=Hi%20from%20Shop%20Management "Email Me!")
-- 🦁 [saldelgado.com](https://saldelgado.com/ "In the works!")
+- 🦁 [SalDelgado.com](https://saldelgado.com/ "In the works!")
 <!-- - 📋 [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Board")
 - 📖 [HashNodeProfile](https://hashnode.com/post/hello-world-ckzq2qh7c0ki6r4s11zzw1zc9 "HashNode") 
 <h2 align="center">🤝 Support</h2> -->
