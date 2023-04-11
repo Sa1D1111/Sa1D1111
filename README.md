@@ -3,10 +3,7 @@
 
 
 - 👋 Hello! I’m @SDe1111(Sal) Welcome to my GitHub.
-- 🏃 <a class="twitter-follow-button"
-  href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSalDev1111&screen_name=SalDev1111"
-  data-size="large">
-Follow @SalDev1111</a>
+
 
   ## 🛠️ Favorite
 
@@ -66,7 +63,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 
 
 - 🏮 [Email](mailto:ofysaldelgado@hotmail.com?subject=Hi%20from%20Shop%20Management "Email Me!")
-- 🦁 [Website-WIP-](https://saldelgado.com/ "In the works!")
+- 🦁 [saldelgado.com](https://saldelgado.com/ "In the works!")
 <!-- - 📋 [Miro Board](https://miro.com/welcome/dGUzdUlFT3FZQzFtb251SThnV2xpZWtJT3FOZFUyM0w2VHpKbU54TTBFS1g0NXhxZFcyUWdmbW82RElNQW5GUnwzNDU4NzY0NTE4NTY3OTYwNDQ1?invite_link_id=441646464122 "Board")
 - 📖 [HashNodeProfile](https://hashnode.com/post/hello-world-ckzq2qh7c0ki6r4s11zzw1zc9 "HashNode") 
 <h2 align="center">🤝 Support</h2> -->
