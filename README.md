@@ -10,15 +10,16 @@
 ### 🧰 Some of my favorite Languages, Help, Frameworks libraries, Databases, Cloud hosting, IDEs and Software.
 
 <p>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="your_project_link">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue.svg?logo=javascript&logoColor=white&color=red">
+</a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white&color=blue"></a>
+  <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white&color=FF3E00"></a>
+  <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
 CS student - CSUF. I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. I am very excited to continue my education and apply what I have learned to real-world scenarios.
@@ -66,6 +67,7 @@ Please feel free to contact me if you have any opportunities or if you just want
 
 <p align="center">💰 Donations </p>
 <p align="center">
+    <a href="https://www.bitcoin.com"><img alt= "bitcoin" src="https://img.shields.io/coincap/rank/bitcoin?color=red&label=Bitcoin&logo=2&logoColor=2&style=plastic"></a>
   <a href="https://www.buymeacoffee.com/SalDev11" title="Buy me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="120">
 </p>
