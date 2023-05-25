@@ -16,7 +16,6 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white&color=blue"></a>
-  <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white&color=FF3E00"></a>
   <a href="#"><img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
