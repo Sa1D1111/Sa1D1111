@@ -7,7 +7,7 @@
 
   ## 🛠️ Favorite
 
-### 🧰 Some of my favorite Languages, Help, Frameworks libraries, Databases, Cloud hosting, IDEs and Software.
+### 🧰 Some of my favorite Languages, Frameworks, Databases, Cloud hosting, and Softwares.
 
 <p>
   <a href="your_project_link">
