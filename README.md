@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hello! I’m @SDe1111(Sal) Welcome to my GitHub.
+- Hello! 👋 I’m @SDe1111(Sal) Welcome to my GitHub.
 
 
   ## 🛠️ Favorite
@@ -22,7 +22,7 @@
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-CS student - CSUF. I am actively exploring a variety of technologies, such as C++, HTML5, CSS, JavaScript, and Python. I am very excited to continue my education and apply what I have learned to real-world scenarios.
+I'm a Computer Science student at California State University, Fullerton (CSUF), actively exploring a diverse range of technologies including JavaScript, Python, and their associated frameworks and libraries. I'm thrilled to apply classroom theories to practical, real-world situations.
 
 I believe that continuing to learn and improve my skills is essential for success in this field, and I am dedicated to staying up-to-date with the latest developments and trends in technology.
 
