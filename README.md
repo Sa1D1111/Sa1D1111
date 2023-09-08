@@ -40,6 +40,9 @@ Please feel free to contact me if you have any opportunities or if you just want
  <a href="https://www.linkedin.com/in/saldelgado1/"> 
 <img align="left" alt="Sal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://saldelgado.com">
+  <img align="left" alt="Sal | saldelgado.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webtrees.svg" />
+</a>
 
 <br />
 <br />
