@@ -34,15 +34,16 @@ Please feel free to contact me if you have any opportunities or if you just want
 
 🔌 Connect with me 🔌
 
-<a href="https://saldelgado.com" onclick="window.open('https://saldelgado.com', '_blank'); return false;">
+<a href="https://saldelgado.com" target="_blank">
   <img align="left" alt="Sal | saldelgado.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webtrees.svg" />
 </a>
-<a href="https://twitter.com/SalDev1111" onclick="window.open('https://twitter.com/SalDev1111', '_blank'); return false;">
+<a href="https://twitter.com/SalDev1111" target="_blank">
   <img align="left" alt="Sal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saldelgado1/" onclick="window.open('https://www.linkedin.com/in/saldelgado1/', '_blank'); return false;">
+<a href="https://www.linkedin.com/in/saldelgado1/" target="_blank">
   <img align="left" alt="Sal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 
 
 <br />
