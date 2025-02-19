@@ -24,8 +24,6 @@
 
 I'm a Computer Science student at California State University, Fullerton (CSUF), actively exploring a diverse range of technologies including JavaScript, Python, and their associated frameworks and libraries. I'm thrilled to apply classroom theories to practical, real-world situations.
 
-I believe that continuing to learn and improve my skills is essential for success in this field, and I am dedicated to staying up-to-date with the latest developments and trends in technology.
-
 As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on any awesome projects!
 
 Please feel free to contact me if you have any opportunities or if you just want to chat about tech!
