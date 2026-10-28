@@ -22,7 +22,7 @@
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
-I'm a Computer Science student at California State University, Fullerton (CSUF), actively exploring a diverse range of technologies including JavaScript, Python, and their associated frameworks and libraries. I'm thrilled to apply classroom theories to practical, real-world situations.
+I'm a Computer Science graduate from California State University, Fullerton (CSUF), actively exploring a diverse range of technologies including JavaScript, Python, and their associated frameworks and libraries. I'm thrilled to apply classroom theories to practical, real-world situations.
 
 As a student, I am always looking for opportunities to apply my knowledge and skills in a practical setting. I am open to collaborate on any awesome projects!
 
